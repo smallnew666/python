@@ -15,7 +15,7 @@ class instagramPicture():
         "Origin": "https://www.instagram.com/",
         "Referer": "https://www.instagram.com/"+name+"/",
         "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
-        "cookie": "shbid=17582; mid=W2OqxwAEAAG0kthQcimh0r6VnzZY; rur=ASH; mcd=3; fbm_124024574287414=base_domain=.instagram.com; csrftoken=LTV3OZMArvyHUBp8nlyXwtf7FigQt1Go; ds_user_id=3462580244; sessionid=IGSCf466c7d6ca72a7f2f2acd8d0dc8e8dd5b02f298eae780e2d2fe96b92c78e1a5e%3AG1zkkb2IkHBatwioP1FxONlEii8Q35if%3A%7B%22_auth_user_id%22%3A3462580244%2C%22_auth_user_backend%22%3A%22accounts.backends.CaseInsensitiveModelBackend%22%2C%22_auth_user_hash%22%3A%22%22%2C%22_platform%22%3A4%2C%22_token_ver%22%3A2%2C%22_token%22%3A%223462580244%3AJxXQZhUr6NqiyzrKOE38EsUTQQvFnU0O%3Acc111edcd666f17a509d157188c87f17bea78f35258d9451413117a833b9c09e%22%2C%22last_refreshed%22%3A1533261693.825915575%7D; fbsr_124024574287414=P2BENsNy0BI74TVQE-uBGm0Gs9vyMblSoKXbNHZqJEA.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImNvZGUiOiJBUURsYjQ3Y01SSUlSMDR6Ylg2cVlmeVVaaTVkeENEWGtkYVllblBkcjR6M1dObV9uXzNEa1kzVjBncTNyc2xCTkRkYk5hR1hPdWJMN0VtVjNwSzgtS21ZLTF5YzB6aFpYMERqdkFORDN4YUxyaGFHck81R3d5QXRXN1Q1QWpCQy1KanZ6SVdEaXpCTTlSN3dkVm44ek5qQW4wWE9nb2Y4a0RkczI3Y0lJUnZ0UDd6aDdOdzVlX0dGYlUza2I3cVNzNUdNWnh4c0RmckxJR2ZYT1dyNmJfdW16djVjNmdEQ2ZsaEpmM0M5SlVTYUJrQmtHWjh1Q05lZl9FOEw2VDFycjEwTXBNTXpkbGh3RUtjTnlfRTFXd1p0cHZXc2psOWNFTVgxblFYTGxtUDNjbFRhdW5JYTNRdnNWVkV1LWU0a1lkWjZsOWlGbF9jMEYyYUFCR0lyUEtBQiIsImlzc3VlZF9hdCI6MTUzMzI2NDk3MSwidXNlcl9pZCI6IjEwMDAwMjI2Mzc3NzExNiJ9; urlgen=",
+        "cookie":",
         "Host": "www.instagram.com"}#header
         self.folder_path = 'F:\BeautifulPicture'  # 设置图片要存放的文件目录
 
